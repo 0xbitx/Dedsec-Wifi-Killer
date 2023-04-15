@@ -16,7 +16,6 @@
 ### TESTED ON FOLLOWING:
 * Kali Linux
 * Parrot OS
-* Ubuntu
 
 ### PREREQUISITES
 * sudo - [ MUST ]

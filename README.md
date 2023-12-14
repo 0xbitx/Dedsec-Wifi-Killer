@@ -11,7 +11,8 @@
 ### INSTALLATION
 * git clone https://github.com/0xbitx/Dedsec-Wifi-Killer.git
 * cd Dedsec-Wifi-Killer
-* sudo python3 dedsec-wifi-killer.py
+* chmod +x dedsec-wifi-killer
+* sudo ./dedsec-wifi-killer
 
 ### TESTED ON FOLLOWING:
 * Kali Linux

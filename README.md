@@ -10,8 +10,6 @@ DEDSEC WIFI KILLER is a linux-based tool tailored for network security, specific
 
 <h1 align="center"> SCREENSHOTS </h1>
 <img src="banner.png" width="100%">
-<img src="screenshot.png" width="100%">
-<img src="screenshot1.png" width="100%">
 
 ### INSTALLATION
     * git clone https://github.com/0xbitx/Dedsec-Wifi-Killer.git
